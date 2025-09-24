@@ -17,6 +17,7 @@ Sono appassionato di CyberSecurity e Coding, e mi piace imparare sempre nuove co
 Ecco alcuni dei progetti su cui ho lavorato:
 
 - [Progetto 1](https://github.com/Christian-Lancini/AssassinoGame) – Un semplice gioco giallo in python.
+- [Progetto 2](https://github.com/Christian-Lancini/LogAnalyzer) - Un file bash che scansiona tutti i file .log in una cartella.
 
 ## Contatti
 
