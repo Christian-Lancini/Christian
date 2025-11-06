@@ -8,7 +8,7 @@ Sono appassionato di CyberSecurity e Coding, e mi piace imparare sempre nuove co
 
 ## Competenze
 
-- **Linguaggi di programmazione:** Python, JavaScript, C, Scripting
+- **Conoscenze:** Python, JavaScript, C, HTML/CSS, Scripting(Batch, Bash)
 - **Strumenti:** Git, Docker(Ancora in apprendimento)
 - **Database:** MySQL
 
