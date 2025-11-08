@@ -4,20 +4,19 @@ Benvenuto nel mio profilo GitHub! Sono Christian uno studente del IIS Castelli. 
 
 ## Chi sono
 
-Sono appassionato di CyberSecurity e Coding, e mi piace imparare sempre nuove cose. Vado in 2 al IIS Castelli di Brescia.
+Sono appassionato di CyberSecurity e Coding, e mi piace imparare sempre nuove cose. Vado nella classe 2° del IIS Castelli di Brescia.
 
 ## Competenze
 
-- **Conoscenze:** Python, JavaScript, C, HTML/CSS, Scripting(Batch, Bash)
-- **Strumenti:** Git, Docker(Ancora in apprendimento)
+- **Skill:** Python, JavaScript, C, HTML/CSS, Linguaggi di Scripting(Bash e Batch), C++(In apprendimento)  
+- **Strumenti:** Git
 - **Database:** MySQL
 
-## Progetti principali
-
-Ecco alcuni dei progetti su cui ho lavorato:
-
-- [Progetto 1](https://github.com/Christian-Lancini/AssassinoGame) – Un semplice gioco giallo in python.
-- [Progetto 2](https://github.com/Christian-Lancini/LogAnalyzer) - Un file bash che scansiona tutti i file .log in una cartella.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## Contatti
 
