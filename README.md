@@ -1,14 +1,14 @@
-# Ciao, sono Christian! 👋
+# Hi, I'm Christian! 👋
 
-Benvenuto nel mio profilo GitHub! Sono Christian uno studente del IIS Castelli. Mi piace lavorare su progetti interessanti e collaborare con altre persone.
+Welcome to my GitHub profile! I'm Christian, a student at IIS Castelli. I enjoy working on interesting projects and collaborating with others.
 
-## Chi sono
+## About Me
 
-Sono appassionato di CyberSecurity e Coding, e mi piace imparare sempre nuove cose. Vado nella classe 2° del IIS Castelli di Brescia.
+I am passionate about Cybersecurity and Coding, and I love learning new things. I’m currently in my 2nd year at IIS Castelli in Brescia.
 
-## Competenze
+## Skills
 
-- **Skill:** Python, JavaScript, C, HTML/CSS, Linguaggi di Scripting(Bash e Batch), C++(In apprendimento)  
+- **Skill:** Python, JavaScript, C, HTML/CSS, Linguaggi di Scripting(Bash e Batch), C++(In apprendimento)
 - **Strumenti:** Git
 - **Database:** MySQL
 
@@ -18,6 +18,6 @@ Sono appassionato di CyberSecurity e Coding, e mi piace imparare sempre nuove co
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## Contatti
+## Contact
 
 - Email: [chrilanci00@gmail.com]
