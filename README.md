@@ -9,7 +9,7 @@ I am passionate about Cybersecurity and Coding, and I love learning new things. 
 ## Skills
 
 - **Skill:** Python, JavaScript, C, HTML/CSS, Linguaggi di Scripting(Bash e Batch), C++(In apprendimento)
-- **Strumenti:** Git
+- **Tools:** Git
 - **Database:** MySQL
 
 ## Badges
